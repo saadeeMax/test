@@ -46,3 +46,4 @@ Still on **React Query v2**? No problem! Check out the v2 docs here: https://rea
   </a> (depending on features imported)
 
 ### [Become a Sponsor!](https://github.com/sponsors/tannerlinsley/)
+### Changing stuff 
